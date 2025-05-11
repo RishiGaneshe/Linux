@@ -1,0 +1,9 @@
+
+##. ✅ Uplaod Reposetory on the GitHub: Commands
+
+01.    git init
+02.    git add .   ('The . means all files in the current directory (and subdirectories).')
+03.    git commit -m "Initial commit"
+04.    git branch -M main
+05.    git remote add origin https://github.com/your-username/your-repository.git
+06.    git push -u origin main
