@@ -25,7 +25,7 @@
 03.    git checkout -b under_develop ( OR create and switch to new branch)
 04.    git add .
 05.    git commit -m "updated codes/files"
-06.    git push -u origin under_develop
+06.    git push -u origin 
 07.    git push
     
 
