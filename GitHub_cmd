@@ -7,3 +7,22 @@
 04.    git branch -M main
 05.    git remote add origin https://github.com/your-username/your-repository.git
 06.    git push -u origin main
+
+
+
+##. ✅ Uplaod updated codes (re-push) on the GitHub: Commands
+
+01.    git add .
+02.    git commit -m "updated codes / files"
+03.    git push 
+
+
+
+##. ✅ Uplaod updated codes (re-push) on the GitHub (Different branch): Commands
+
+01.    git branch (list all branches)
+02.    git checkout develop ( switch to exixting branch )
+03.    git checkout -b under_develop ( OR create and switch to new branch)
+04.    git push -u origin under_develop
+05.    git push
+
