@@ -26,6 +26,6 @@
 04.    git add .
 05.    git commit -m "updated codes/files"
 06.    git push -u origin 
-07.    git push
+07.    git push  A
     
 
