@@ -1,0 +1,9 @@
+
+✅ Upload File to Linux Server with .pem Key (using scp)
+
+cmd   ::    scp -i /path/to/key.pem /path/to/local/file username@remote_host:/remote/path
+
+
+✅ To upload a folder instead of a file:
+
+cmd   ::    scp -i /path/to/key.pem -r /local/folder username@remote_host:/remote/path
